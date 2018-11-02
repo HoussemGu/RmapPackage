@@ -1,0 +1,11 @@
+Package: TNmap
+Type: Package
+Title: Tunisia Cartography package
+Version: 0.1.0
+Author: Houssem Guechai
+Maintainer: Houssem Guechai <guechaihoussem@gmail.com>
+Description: this package make it easier to create statistical maps with data about Tunisia
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
